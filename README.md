@@ -2,7 +2,7 @@
 
 This is the repository for PCB schematics and code for electrical stimulation used in the "FeetThrough: Electrotactile Foot Interface that Preserves Real-World Sensations" paper (ACM UIST2023).
 
-**Summary**: FeetThrough is an open-source device that allows you to control external applications. Its hardware is built on top of an ESP32 microcontroller (you can use your favorite microcontroller), custom-built multiplexer and a electrical stimulator (we used the medical-grade Rehastim). We provide schematics for electrodes and multiplexer and simple python code for electrical stimulation. By implementing multiplxer and preparing stimulator, you can test electrical stimulation for feet. Regarding the details of the electrode design, please refer to our paper.
+**Summary**: FeetThrough is an open-source device that allows you to control external applications. Its hardware is built on an ESP32 microcontroller (you can use your favorite microcontroller), a custom-built multiplexer, and an electrical stimulator (we used the medical-grade Rehastim). We provide schematics for electrodes, multiplexers, and simple Python codes for electrical stimulation. By implementing a multiplexer and preparing a stimulator, you can test electrical stimulation for feet. Regarding the details of the electrode design, please refer to our paper.
 
 ![FeetThrough_image](images/FeetThrough_teaser.jpg)
 
